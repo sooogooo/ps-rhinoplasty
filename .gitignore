@@ -1,0 +1,15 @@
+# Windows 元数据残留
+*.png:Zone.Identifier
+*:Zone.Identifier
+
+# 本地备份 / 临时文件
+*.bak
+*.tmp
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地派生资源（站点骨架由 build_index.py 从源 md 重构）
+/tmp/tt_style_backup.css
